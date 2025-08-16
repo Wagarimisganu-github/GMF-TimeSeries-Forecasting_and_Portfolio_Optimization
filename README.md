@@ -56,7 +56,7 @@ Lists all necessary Python dependencies.
 1. **Clone the repository and navigate to the project directory:**
 
    ```bash
-   git clone https://github.com/Shegaw-21hub/GMF-TimeSeries-Forecasting_and_Portfolio_Optimization
+   git clone https://github.com/Wagarimisganu-github/GMF-TimeSeries-Forecasting_and_Portfolio_Optimization.git
    cd GMF-TimeSeries-Forecasting_and_Portfolio_Optimization
 2. **Create and activate a Python virtual environment:**
 
