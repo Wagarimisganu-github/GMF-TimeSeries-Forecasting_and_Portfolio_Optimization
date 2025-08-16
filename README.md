@@ -118,8 +118,8 @@ The initial analysis of **TSLA**, **BND**, and **SPY** data from **July 2015 to 
 ## 📬 Contact Information
 
 **Shegaw Adugna Melaku**  
-📧 Email: [Send me an email](mailto:shegamihret@gmail.com)  
-🔗 LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/shegaw-adugna-b751a1166/)
+📧 Email: [Send me an email](wagarimisganu12@gmail.com)  
+🔗 LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/waggari-misganu-ebsa-352601317/)
 
 ---
 
